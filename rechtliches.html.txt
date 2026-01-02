@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <title>Impressum & Datenschutz – Livana_Wolf</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <style>
+        body {
+            font-family: Arial, Helvetica, sans-serif;
+            background: #f4f4f4;
+            margin: 0;
+            padding: 20px;
+            color: #222;
+        }
+
+        nav {
+            margin-bottom: 20px;
+        }
+
+        nav a {
+            margin-right: 15px;
+            text-decoration: none;
+            font-weight: bold;
+            color: #0066cc;
+        }
+
+        .box {
+            background: #ffffff;
+            max-width: 800px;
+            margin: auto;
+            padding: 25px;
+            border-radius: 6px;
+            box-shadow: 0 0 8px rgba(0,0,0,0.05);
+        }
+
+        h1, h2 {
+            margin-top: 0;
+        }
+    </style>
+</head>
+<body>
+
+<nav>
+    <a href="#impressum">Impressum</a>
+    <a href="#datenschutz">Datenschutz</a>
+</nav>
+
+<div class="box">
+
+<section id="impressum">
+    <h1>Impressum</h1>
+
+    <p><strong>Angaben gemäß § 5 TMG</strong></p>
+
+    <p>
+        Michelle Olleff<br>
+        Knappenstraße 92<br>
+        47167 Duisburg<br>
+        Deutschland
+    </p>
+
+    <p>
+        E-Mail:
+        <a href="mailto:snow1985w@gmail.com">snow1985w@gmail.com</a>
+    </p>
+
+    <p>
+        Verantwortlich für den Inhalt nach § 18 Abs. 2 MStV:<br>
+        Michelle Olleff
+    </p>
+
+    <p>
+        Plattform der EU-Kommission zur Online-Streitbeilegung:<br>
+        <a href="https://ec.europa.eu/consumers/odr" target="_blank" rel="noopener">
+            https://ec.europa.eu/consumers/odr
+        </a><br>
+        Keine Teilnahme an Streitbeilegungsverfahren.
+    </p>
+</section>
+
+<hr>
+
+<section id="datenschutz">
+    <h1>Datenschutzerklärung</h1>
+
+    <p>
+        Diese Website dient ausschließlich der Bereitstellung rechtlicher Informationen
+        (Impressum / Datenschutz).
+    </p>
+
+    <p>
+        Es werden keine Cookies gesetzt und keine Tracking- oder Analyse-Tools verwendet.
+    </p>
+
+    <p>
+        Beim Aufruf der Seite können durch den Hosting-Provider technisch notwendige Daten
+        (z. B. IP-Adresse, Zeitpunkt des Zugriffs) verarbeitet werden.
+        Dies erfolgt auf Grundlage von Art. 6 Abs. 1 lit. f DSGVO.
+    </p>
+
+    <p>
+        Bei Kontaktaufnahme per E-Mail werden die übermittelten Daten ausschließlich zur
+        Bearbeitung der Anfrage verwendet.
+    </p>
+
+    <p>
+        Diese Seite enthält ggf. Links zu externen Plattformen (z. B. Twitch).
+        Für deren Datenschutzbestimmungen ist der jeweilige Anbieter verantwortlich.
+    </p>
+</section>
+
+</div>
+
+</body>
+</html>
